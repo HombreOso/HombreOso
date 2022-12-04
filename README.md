@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HombreOso
-- 👀 I’m interested in Python, Machine Learning, Mobile Apps (native and ReactNative)
+- 👀 I’m interested in Python, Machine Learning, Mobile Apps (native and cross-platform)
 - 🌱 I’m currently learning ReactNative, Natural Language Processing, Open CV
 - 💞️ I’m looking to collaborate on Development of useful Mobile, Web und Desktop Applications, Machine Learning Projects
 - 📫 How to reach me arthur.e.emig@gmail.com
