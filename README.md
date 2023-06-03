@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HombreOso
-- 👀 I’m interested in Python, Machine Learning, Mobile Apps (native and cross-platform)
+- 👀 I’m interested in Python, Flutter, Machine Learning, Mobile Apps (native and cross-platform)
 - 🌱 I’m currently learning ReactNative, Flutter, PostgreSQL, MongoDB, Natural Language Processing, Open CV, pyRevit, C sharp, Visual Basic for Applications
 - 💞️ I’m looking to collaborate on Development of useful Mobile, Web und Desktop Applications, Machine Learning Projects, Development of plugins for Revit
 - 📫 How to reach me arthur.e.emig@gmail.com
